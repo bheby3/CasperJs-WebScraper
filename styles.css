@@ -1,0 +1,33 @@
+.newListing256 {
+    border: 1px solid black;
+    margin-bottom: 1em;
+}
+.newListing500 {
+    border: 1px solid blue;
+    margin-bottom: 1em;
+}
+.newListing700 {
+    border: 1px solid orangered;
+    margin-bottom: 1em;
+}
+.newListing1tb {
+    border: 1px solid green;
+    margin-bottom: 1em;
+}
+
+.title256 {
+    font-size: 1.5em;
+    color: black;
+}
+.title500 {
+    font-size: 1.5em;
+    color: blue;
+}
+.title700 {
+    font-size: 1.5em;
+    color: orangered;
+}
+.title1tb {
+    font-size: 1.5em;
+    color: green;
+}
