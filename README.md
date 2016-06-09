@@ -1,7 +1,7 @@
 # webScraper
 
 * Searches listings on ksl.com for a Macbook pro within the $800 - $1000 price range
- with at least 256 GB of HD space. It then filters and sorts the results.
+ with at least 256 GB of HD space. It then filters, sorts and styles the results.
 
 * Writes data from listings to a local file
  
